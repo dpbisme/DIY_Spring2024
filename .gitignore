@@ -49,3 +49,7 @@ vignettes/*.pdf
 rsconnect/
 .Rproj.user
 inst/doc
+DIY_Spring2024.Rproj
+.DS_Store
+.DS_Store
+kallisto_outputs/.DS_Store
